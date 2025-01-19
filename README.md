@@ -9,7 +9,7 @@ This is a Python implementation of the TOPSIS (Technique for Order Preference by
 Install the package using pip:
 
 ```bash
-pip install Topsis-YourName-YourRollNumber
+pip install Topsis-MedhaSharma-102217238
 
 ---
 ```
@@ -18,7 +18,7 @@ pip install Topsis-YourName-YourRollNumber
 After installation, verify it using:
 
 ```bash
-pip show Topsis-YourName-YourRollNumber
+pip show Topsis-MedhaSharma-102217238
 ```
 This will show details about the installed package, including its version, dependencies, and other metadata.
 
