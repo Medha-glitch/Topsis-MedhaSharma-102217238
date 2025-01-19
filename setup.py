@@ -1,5 +1,8 @@
-
 from setuptools import setup, find_packages
+from pathlib import Path
+
+# Read the content of your README file
+long_description = (Path(__file__).parent / 'README.md').read_text()
 
 setup(
     name='Topsis-MedhaSharma-102217238',  
@@ -14,4 +17,6 @@ setup(
             'topsis-cli=cli:main',  
         ]
     },
+    long_description=long_description,  
+    long_description_content_type='text/markdown', 
 )
