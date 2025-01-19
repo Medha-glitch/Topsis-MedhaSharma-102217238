@@ -6,7 +6,7 @@ long_description = (Path(__file__).parent / 'README.md').read_text()
 
 setup(
     name='Topsis-MedhaSharma-102217238',  
-    version='0.1',
+    version='0.2',
     packages=find_packages(),
     install_requires=[
         'numpy',
