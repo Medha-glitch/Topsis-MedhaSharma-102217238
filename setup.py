@@ -5,7 +5,7 @@ from pathlib import Path
 long_description = (Path(__file__).parent / 'README.md').read_text()
 
 setup(
-    name='Topsis-MedhaSharma-102217238',  
+    name='Topsis-MedhaSharma-102217238-v02',  
     version='0.2',
     packages=find_packages(),
     install_requires=[
