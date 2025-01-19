@@ -2,7 +2,7 @@
 from setuptools import setup, find_packages
 
 setup(
-    name='Topsis-YourName-YourRollNumber',  # Modify this with your name and roll number
+    name='Topsis-MedhaSharma-102217238',  
     version='0.1',
     packages=find_packages(),
     install_requires=[
@@ -11,7 +11,7 @@ setup(
     ],
     entry_points={
         'console_scripts': [
-            'topsis-cli=cli:main',  # This will allow you to run cli.py using "topsis-cli"
+            'topsis-cli=cli:main',  
         ]
     },
 )
